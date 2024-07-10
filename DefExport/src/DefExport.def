@@ -1,0 +1,4 @@
+LIBRARY DefExport
+EXPORTS
+    AddTest @1
+    AddTest_Arg3 @2
